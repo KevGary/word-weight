@@ -1,4 +1,6 @@
-// The formula to calculate the weight of the word is to look at the letter position in the English alphabet (so A=1, B=2, C=3 ... Z=26) as the letter weight, then multiply that by the distance from the balance point, so the first letter away is multiplied by 1, the second away by 2, etc.
+// The formula to calculate the weight of the word is to look at the letter position in the English alphabet 
+//(so A=1, B=2, C=3 ... Z=26) as the letter weight, then multiply that by the distance from the balance point, 
+// so the first letter away is multiplied by 1, the second away by 2, etc.
 // As an example:
 // STEAD balances at T: 1 * S(19) = 1 * E(5) + 2 * A(1) + 3 * D(4))
 
